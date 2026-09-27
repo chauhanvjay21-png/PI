@@ -271,6 +271,84 @@
       "amount": "₹30.00",
       "verified": true,
       "payment_screenshot": "https://drive.google.com/open?id=1dy6UCZvhRsxbTWY6oyVw4GD1S5UheUYJ"
+    },
+    {
+      "id": "REG-101022",
+      "timestamp": "27/09/2026 16:10:11",
+      "name": "Ganesh Anil Patil",
+      "contact": "8010908457",
+      "email": "ganeshpatil11740@gmail.com",
+      "branch": "Horticulture",
+      "year": "Second",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101023",
+      "timestamp": "27/09/2026 16:41:37",
+      "name": "Yogeshwar Bhoye",
+      "contact": "7276313729",
+      "email": "yogeshwarbhoye94@gmail.com",
+      "branch": "Horticulture",
+      "year": "Second",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101024",
+      "timestamp": "27/09/2026 16:49:10",
+      "name": "Pushkaraj Mankar",
+      "contact": "8668910438",
+      "email": "pushkarajmankar18@gmail.com",
+      "branch": "Agril. Eng",
+      "year": "First",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101025",
+      "timestamp": "27/09/2026 22:00:33",
+      "name": "Aditya Balu Bhalerao",
+      "contact": "8208957761",
+      "email": "bhaleraoaditya151@gmail.com",
+      "branch": "Food Technology",
+      "year": "Fourth",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101026",
+      "timestamp": "27/09/2026 22:34:27",
+      "name": "Pranav kadam",
+      "contact": "9309009469",
+      "email": "pranavkadam6555@gmail.com",
+      "branch": "Food Technology",
+      "year": "Fourth",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101027",
+      "timestamp": "27/09/2026 23:32:35",
+      "name": "Sagar Dhirde",
+      "contact": "8767853036",
+      "email": "Sagardhirde91@gmail.com",
+      "branch": "Food Technology",
+      "year": "Fourth",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
     }
   ]
     }
