@@ -349,6 +349,31 @@
       "amount": "₹30.00",
       "verified": true,
       "payment_screenshot": "https://drive.google.com/open"
+    },{
+      "id": "REG-101028",
+      "timestamp": "28/09/2026 00:43:35",
+      "name": "Bhushan Kadlag",
+      "contact": "9834899585",
+      "email": "bhushankadlag6@gmail.com",
+      "branch": "Food Technology",
+      "year": "Fourth",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
+    },
+    {
+      "id": "REG-101029",
+      "timestamp": "28/09/2026 00:46:29",
+      "name": "Satyam vadje patil",
+      "contact": "7820975753",
+      "email": "satyamwadje4@gmail.com",
+      "branch": "Horticulture",
+      "year": "Third",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open"
     }
   ]
     }
