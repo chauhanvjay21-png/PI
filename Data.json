@@ -220,6 +220,57 @@
       "amount": "₹30.00",
       "verified": true,
       "payment_screenshot": "https://drive.google.com/open?id=vedant"
+    },{
+      "id": "REG-101018",
+      "timestamp": "27/09/2026 12:07:37",
+      "name": "Ayush Sachin Patil",
+      "contact": "7276792788",
+      "email": "aslpatil8607@gmail.com",
+      "branch": "Agril. Eng",
+      "year": "First",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open?id=1mL8LXGHRhPstwFIh1nc-vyy5opOwnzLU"
+    },
+    {
+      "id": "REG-101019",
+      "timestamp": "27/09/2026 12:25:07",
+      "name": "Saksham Subhash Pendhe",
+      "contact": "9604603683",
+      "email": "sakshamspendhe121@gmail.com",
+      "branch": "Agril. Eng",
+      "year": "Second",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open?id=16z3xLTdeQ-1gnMr3v1YUTE2CO4rwsQcv"
+    },
+    {
+      "id": "REG-101020",
+      "timestamp": "27/09/2026 15:45:06",
+      "name": "Sumeet Somnath pawar",
+      "contact": "9021836566",
+      "email": "sumeetpawar083@gmail.com",
+      "branch": "Agril. Eng",
+      "year": "First",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open?id=1ql1CiszGNaX4kyYCWzdB2GD69UxUzTqj"
+    },
+    {
+      "id": "REG-101021",
+      "timestamp": "27/09/2026 15:55:36",
+      "name": "Siddhesh more",
+      "contact": "9049139399",
+      "email": "siddheshm9049@gmail.com",
+      "branch": "Agril. Eng",
+      "year": "First",
+      "event": "eSports",
+      "amount": "₹30.00",
+      "verified": true,
+      "payment_screenshot": "https://drive.google.com/open?id=1dy6UCZvhRsxbTWY6oyVw4GD1S5UheUYJ"
     }
   ]
     }
