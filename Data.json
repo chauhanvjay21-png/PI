@@ -374,6 +374,109 @@
       "amount": "₹30.00",
       "verified": true,
       "payment_screenshot": "https://drive.google.com/open"
-    }
+    },{
+    "id": "REG-101030",
+    "timestamp": "28/09/2026 10:28:55",
+    "name": "Yash Dharbale",
+    "contact": "9359738247",
+    "email": "yashdharbale96@gmail.com",
+    "branch": "Horticulture",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101031",
+    "timestamp": "28/09/2026 12:05:33",
+    "name": "Parth rupesh ingale",
+    "contact": "8788428055",
+    "email": "parthingale75@gmail.com",
+    "branch": "Biotechnology",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101032",
+    "timestamp": "28/09/2026 12:05:38",
+    "name": "Swapnil Kamble",
+    "contact": "9021501411",
+    "email": "swapnilkamble2656@gmail.com",
+    "branch": "Biotechnology",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101033",
+    "timestamp": "28/09/2026 12:33:21",
+    "name": "Abhijit Yogesh Gorade",
+    "contact": "7058546535",
+    "email": "goradeabhijeet@gmail.com",
+    "branch": "Biotechnology",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101034",
+    "timestamp": "28/09/2026 12:38:18",
+    "name": "Vaibhav Nathe",
+    "contact": "8530390569",
+    "email": "vaibhavnathe007@gmail.com",
+    "branch": "Horticulture",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101035",
+    "timestamp": "28/09/2026 12:51:20",
+    "name": "Devesh Mahajan",
+    "contact": "7620201788",
+    "email": "deveshmahajan435@gmail.com",
+    "branch": "Agriculture",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101036",
+    "timestamp": "28/09/2026 13:00:36",
+    "name": "Nauman Sayyed",
+    "contact": "8805522585",
+    "email": "nksayyed28@gmail.com",
+    "branch": "Agril. Eng",
+    "year": "First",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101037",
+    "timestamp": "28/09/2026 13:47:19",
+    "name": "Sarvesh bodke",
+    "contact": "7777052696",
+    "email": "Krushnabodke86@gmail.com",
+    "branch": "Biotechnology",
+    "year": "First",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  }
   ]
     }
