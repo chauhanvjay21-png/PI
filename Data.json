@@ -477,6 +477,57 @@
     "amount": "₹30.00",
     "verified": true,
     "payment_screenshot": "https://drive.google.com/open"
+  }, {
+    "id": "REG-101038",
+    "timestamp": "28/09/2026 16:08:04",
+    "name": "Rohit Chavan",
+    "contact": "8007058014",
+    "email": "rohitchavan10407@gmail.com",
+    "branch": "Agril. Eng",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101039",
+    "timestamp": "28/09/2026 16:46:51",
+    "name": "Mohit samadhan pawar",
+    "contact": "9307841344",
+    "email": "pawarmohit68055@gmail.com",
+    "branch": "Agril. Eng",
+    "year": "First",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101040",
+    "timestamp": "28/09/2026 17:30:02",
+    "name": "Manthan",
+    "contact": "9420610142",
+    "email": "manthanshejwal97@gmail.com",
+    "branch": "Agri.Bussiness Management",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
+  },
+  {
+    "id": "REG-101041",
+    "timestamp": "28/09/2026 22:50:01",
+    "name": "Shriram Jadhav",
+    "contact": "8275014744",
+    "email": "jadhavshriram509@gmail.com",
+    "branch": "Biotechnology",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": true,
+    "payment_screenshot": "https://drive.google.com/open"
   }
   ]
     }
