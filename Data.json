@@ -644,6 +644,34 @@
   "amount": "₹30.00",
   "verified": true,
   "payment_screenshot": "https://drive.google.com/open"
+  },
+    [
+  {
+    "id": "REG-101051",
+    "timestamp": null,
+    "name": "Vinit pund",
+    "contact": "9370874756",
+    "email": "prajwalchochande@gma",
+    "branch": "ABM",
+    "year": "First",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": false,
+    "payment_screenshot": null
+  },
+  {
+    "id": "REG-101052",
+    "timestamp": null,
+    "name": "Sumit dake",
+    "contact": "12345678",
+    "email": "prajwalchochande@gma",
+    "branch": "Food Tech",
+    "year": "Second",
+    "event": "eSports",
+    "amount": "₹30.00",
+    "verified": false,
+    "payment_screenshot": null
   }
+  ]
   ]
     }
