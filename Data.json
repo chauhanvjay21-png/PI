@@ -645,7 +645,6 @@
   "verified": true,
   "payment_screenshot": "https://drive.google.com/open"
   },
-    [
   {
     "id": "REG-101051",
     "timestamp": null,
@@ -672,6 +671,5 @@
     "verified": false,
     "payment_screenshot": null
   }
-  ]
   ]
     }
